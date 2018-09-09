@@ -1,0 +1,29 @@
+{
+  "name": "vittominacori.github.io",
+  "version": "1.0.0",
+  "description": "@vittominacori's personal website",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "deploy": "vuepress build && sh scripts/deploy.sh"
+  },
+  "author": "Vittorio Minacori (@vittominacori)",
+  "contributors": [
+    {
+      "name": "Vittorio Minacori",
+      "url": "https://github.com/vittominacori"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vittominacori/vittominacori.github.io.git"
+  },
+  "homepage": "https://github.com/vittominacori/vittominacori.github.io/",
+  "bugs": {
+    "url": "https://github.com/vittominacori/vittominacori.github.io/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^0.14.2"
+  }
+}
