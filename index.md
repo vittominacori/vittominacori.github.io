@@ -7,6 +7,7 @@
 <a href="https://github.com/vittominacori" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
 <a href="https://twitter.com/vittominacori" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
 <a href="https://www.linkedin.com/in/vittoriominacori" target="_blank"><i class="fab fa-2x fa-linkedin-in"></i></a>
+<a href="https://medium.com/@vittominacori" target="_blank"><i class="fab fa-2x fa-medium"></i></a>
 
 ## About 
 
@@ -198,3 +199,8 @@ I'm based in Catania... and on network too.
 <a href="https://github.com/vittominacori" target="_blank">GitHub</a> 
 <a href="https://twitter.com/vittominacori" target="_blank">Twitter</a> 
 <a href="https://www.linkedin.com/in/vittoriominacori" target="_blank">LinkedIn</a>
+<a href="https://medium.com/@vittominacori" target="_blank">Medium</a>
+
+
+---    
+Built with [VuePress](https://github.com/vittominacori/vittominacori.github.io)    
