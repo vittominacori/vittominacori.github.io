@@ -4,6 +4,7 @@ module.exports = {
   head: [
     ['meta', { property: 'og:image', content: '/assets/images/vittominacori-social.jpg' }],
     ['link', { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.3.1/css/all.css' }],
+    ['meta', { name: 'google-site-verification', content: 'Q3pMcwECEGhU_s_cyixqPpPcA8hyrJKEu-vIDEfLAOY' }]
   ],
   ga: 'UA-115756440-2',
   themeConfig: {
