@@ -1,7 +1,3 @@
----
-sidebarDepth: 2
----
-
 ![vittominacori](/assets/images/vittominacori.jpg)
 
 # Vittorio Minacori

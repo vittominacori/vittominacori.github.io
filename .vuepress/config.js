@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Vittorio Minacori - Web and Blockchain Developer',
+  title: 'Web and Blockchain Developer | Catania',
   description: "I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation. I live in Catania and I'm maniacally passionate about web applications, blockchain technologies and development tools.",
   head: [
     ['meta', { property: 'og:image', content: '/assets/images/vittominacori-social.jpg' }],
