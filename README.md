@@ -1,4 +1,4 @@
-![vittominacori](/assets/images/vittominacori.jpg)
+![vittominacori](./.vuepress/public/assets/images/vittominacori.jpg)
 
 # Vittorio Minacori
 
@@ -90,15 +90,17 @@ HT Apps is a web oriented software house which, over the years, has been able to
 ```    
 [www.ht-apps.eu](https://www.ht-apps.eu)
 
-## Projects (at work)
+## Projects
 
-### Nextwin   
+### Nextwin    
+`Pane&Design`   
 ``` 
 The first social betting network.  Connect with other tipsters and get to the next level of betting.
 ```   
 [www.nextwin.com](https://www.nextwin.com)
 
 ### Salty   
+`Pane&Design`   
 ``` 
 Salty is the App that helps you find the professional best suited for the job performance you need.  
 Your simple, unique Job advisor.
@@ -106,6 +108,7 @@ Your simple, unique Job advisor.
 [www.saltyapp.com](https://www.saltyapp.com)
 
 ### Indoor Location   
+`VITECO e-Learning Solutions`   
 ``` 
 The project aims at developing a "social mobile application" addressed to improve services provided by commercial or cultural places. 
 The project idea, developed with researchers from University of Catania, is to build a platform that provides heterogeneous services specifically implemented on mobile devices. 
@@ -113,6 +116,7 @@ Central role in the project is covered by the development of a new core function
 ```   
 
 ### Semantic Sicily   
+`PMF Research`   
 ``` 
 Semantic Sicily partnership aims to develop research in the field of semantic web for a growing range of information to fit the needs of companies operating in different economic fields. 
 The technological platform developed in the project is based on modern cloud computing technologies. 
@@ -121,24 +125,28 @@ These applications include e-learning, semantic document management, semantic ne
 ```
 
 ### RESIMA   
+`HT Apps`   
 ``` 
 This project aims to develop a methodology based on the use of multi‐sensory architecture and computational intelligent paradigms to improve the indoor use of by the elderly and vulnerable people. 
 The system will employ a network architecture in which nodes are multi‐sensory responsible for monitoring the location of users within the environment and the state of the environment. 
 This will make it possible to estimate the user‐environment interaction and provide the necessary information for the visually impaired use a secure and efficient environment.
 ```   
 
-### fe:male
+### fe:male   
+`VITECO e-Learning Solutions`   
 ```    
 The fe:male network helps women increase self‐confidence and life skills in order to develop their business ideas and become successful entrepreneurs. 
 Fe:male was run by a consortium of organizations across five European countries that was working together to support and develop female entrepreneurship across Europe.
 ```
 
 ### Youth 2 Work   
+`VITECO e-Learning Solutions`   
 ``` 
 Y2W provides a tailored support programme to enable NEETs (Not being in Employment, Education or Training) to gain valuable soft skills and competencies to aid job-seeking employability.
 ```
 
 ### Smiley   
+`PMF Research`   
 ``` 
 The aim of SMILEY is to implement awareness‐raising programs in schools realizing the specific courses facing the most current social topics. 
 The methodology developed within the project are implemented in some schools and educational institutes in EU and other Associated Countries and the direct benefit and impact focused on educational staff and students.
@@ -149,7 +157,7 @@ The methodology developed within the project are implemented in some schools and
 I studied Computer Engineering at the University of Catania.   
 I have performed several research projects during my undergraduate studies.
 
-## Projects (during university)
+## Research
 
 ### Users recommendation in Attention Metadata based Recommender System   
 ```
@@ -201,13 +209,13 @@ I worked on the design and implementation of a semantic courseware application f
 
 ## Interests
 
-I love art, in all its forms: painting, music, movie, football and object-oriented programming too :)   
+I love art, in all its forms: painting, music, movie, football and object-oriented programming too.   
 I'm always interested in innovation regarding blockchain, web applications and innovation tools.
 
 ## Contacts
 
 I'm based in Catania... and on network too.   
-Open to getting in touch with awesome people and projects.  
+Open to getting in touch with awesome people and projects.     
 
 <a href="https://github.com/vittominacori" target="_blank"><i class="fab fa-2x fa-github"></i></a> 
 <a href="https://twitter.com/vittominacori" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
@@ -217,4 +225,4 @@ Open to getting in touch with awesome people and projects.
 
 
 ---    
-<small>Built with [VuePress](https://github.com/vittominacori/vittominacori.github.io)</small>    
+🤟 <small>Built with [VuePress](https://github.com/vittominacori/vittominacori.github.io)</small>    
