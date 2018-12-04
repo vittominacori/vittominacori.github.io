@@ -194,8 +194,8 @@ I worked on the design and implementation of a semantic courseware application f
 * RESTful Web Services and APIs
 * SQL and NoSQL Databases
 * PHP, Node.js
-* Blockchain, Ethereum, Smart Contracts, Solidity
-* OpenZeppelin, DApps, Truffle Framework, Web3.js
+* Blockchain, Ethereum, Smart Contracts, DApps
+* OpenZeppelin, Solidity, Web3.js, Truffle, MetaMask
 * JavaScript, Vue.js, AngularJS, Polymer, jQuery
 * Socket.io, WebRTC
 * Semantic Web and Ontology Engineering
