@@ -107,6 +107,21 @@ Your simple, unique Job advisor.
 ```   
 [www.saltyapp.com](https://www.saltyapp.com)
 
+### CryptoGift   
+``` 
+CryptoGift is an ERC721 NFT Token and Marketplace to buy and give away an Ethereum based Collectible Gift. 
+Send Ethereum to a friend for birthday or Christmas, or send a love message. Encrypt and make it eternal. 
+Make your Gift unique on the Blockchain!
+```   
+[vittominacori.github.io/cryptogift](https://vittominacori.github.io/cryptogift/)
+
+### ERC20 Generator   
+``` 
+Create an ERC20 Token in less than a minute. 
+Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token for FREE.
+```   
+[vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/)
+
 ### Indoor Location   
 `VITECO e-Learning Solutions`   
 ``` 
@@ -225,4 +240,4 @@ Open to getting in touch with awesome people and projects.
 
 
 ---    
-🤟 <small>Built with [VuePress](https://github.com/vittominacori/vittominacori.github.io)</small>    
+🤟
