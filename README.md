@@ -107,6 +107,15 @@ Your simple, unique Job advisor.
 ```   
 [www.saltyapp.com](https://www.saltyapp.com)
 
+### WallOfChain   
+`Pane&Design`   
+``` 
+WallOfChain is a collectible token on Ethereum Blockchain. Become a part of the Blockchain hall of fame. 
+Collect a star and let it shine. It will hang on our wall luminescent, bright and strong – there is your name on it. 
+When an user acquire a star, it is uniquely owned by the purchaser.
+```   
+[www.wallofchain.com](https://wallofchain.com)
+
 ### CryptoGift   
 ``` 
 CryptoGift is an ERC721 NFT Token and Marketplace to buy and give away an Ethereum based Collectible Gift. 
