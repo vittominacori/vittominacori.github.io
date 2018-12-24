@@ -122,6 +122,12 @@ Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable
 ```   
 [vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/)
 
+### WatchToken   
+``` 
+A simple DApp that allows suggesting and adding a Token to users of compatible wallets like MetaMask.
+```   
+[vittominacori.github.io/watch-token](https://vittominacori.github.io/watch-token/)
+
 ### Indoor Location   
 `VITECO e-Learning Solutions`   
 ``` 
