@@ -116,27 +116,6 @@ When an user acquire a star, it is uniquely owned by the purchaser.
 ```   
 [www.wallofchain.com](https://wallofchain.com)
 
-### CryptoGift   
-``` 
-CryptoGift is an ERC721 NFT Token and Marketplace to buy and give away an Ethereum based Collectible Gift. 
-Send Ethereum to a friend for birthday or Christmas, or send a love message. Encrypt and make it eternal. 
-Make your Gift unique on the Blockchain!
-```   
-[vittominacori.github.io/cryptogift](https://vittominacori.github.io/cryptogift/)
-
-### ERC20 Generator   
-``` 
-Create an ERC20 Token in less than a minute. 
-Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token for FREE.
-```   
-[vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/)
-
-### WatchToken   
-``` 
-A simple DApp that allows suggesting and adding a Token to users of compatible wallets like MetaMask.
-```   
-[vittominacori.github.io/watch-token](https://vittominacori.github.io/watch-token/)
-
 ### Indoor Location   
 `VITECO e-Learning Solutions`   
 ``` 
@@ -181,6 +160,48 @@ Y2W provides a tailored support programme to enable NEETs (Not being in Employme
 The aim of SMILEY is to implement awareness‐raising programs in schools realizing the specific courses facing the most current social topics. 
 The methodology developed within the project are implemented in some schools and educational institutes in EU and other Associated Countries and the direct benefit and impact focused on educational staff and students.
 ```
+
+## Open Source
+
+### CryptoGift   
+``` 
+CryptoGift is an ERC721 NFT Token and Marketplace to buy and give away an Ethereum based Collectible Gift. 
+Send Ethereum to a friend for birthday or Christmas, or send a love message. Encrypt and make it eternal. 
+Make your Gift unique on the Blockchain!
+```   
+[vittominacori.github.io/cryptogift](https://vittominacori.github.io/cryptogift/)
+
+### ERC20 Generator   
+``` 
+Create an ERC20 Token in less than a minute. 
+Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token for FREE.
+```   
+[vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/)
+
+### WatchToken   
+``` 
+A simple DApp that allows suggesting and adding a Token to users of compatible wallets like MetaMask.
+```   
+[vittominacori.github.io/watch-token](https://vittominacori.github.io/watch-token/)
+
+### ERC-1363 Payable Token   
+``` 
+The ERC-1363 is an ERC-20 compatible token that can make a callback on the receiver contract to notify token transfers or token approvals. 
+It can be used to create a token payable crowdsale, selling services for tokens, paying invoices, making subscriptions, use them for a specific utility and many other purposes.
+```   
+[vittominacori.github.io/erc1363-payable-token](https://vittominacori.github.io/erc1363-payable-token/)
+
+### ETH Token Recover   
+``` 
+TokenRecover allows the contract owner to recover any ERC20 token sent into the contract for error.
+```   
+[vittominacori.github.io/eth-token-recover](https://vittominacori.github.io/eth-token-recover/)
+
+### Solidity Linked List   
+``` 
+An utility library for using sorted linked list data structures in your Solidity project.
+```   
+[vittominacori.github.io/solidity-linked-list](https://vittominacori.github.io/solidity-linked-list/)
 
 ## Education
 
