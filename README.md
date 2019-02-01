@@ -1,4 +1,4 @@
-![vittominacori](./.vuepress/public/assets/images/vittominacori.jpg)
+<img src="./.vuepress/public/assets/images/vittominacori.jpg" width="260" alt="vittominacori">
 
 # Vittorio Minacori
 
@@ -8,7 +8,7 @@
 <a href="https://twitter.com/vittominacori" target="_blank"><i class="fab fa-2x fa-twitter"></i></a> 
 <a href="https://www.linkedin.com/in/vittoriominacori" target="_blank"><i class="fab fa-2x fa-linkedin-in"></i></a>
 <a href="https://www.instagram.com/vittominacori" target="_blank"><i class="fab fa-2x fa-instagram"></i></a>
-<a href="https://medium.com/@vittominacori" target="_blank"><i class="fab fa-2x fa-medium"></i></a>
+<a href="https://medium.com/@vittominacori" target="_blank"><i class="fab fa-2x fa-medium-m"></i></a>
 
 ## About 
 
@@ -183,6 +183,12 @@ Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable
 A simple DApp that allows suggesting and adding a Token to users of compatible wallets like MetaMask.
 ```   
 [vittominacori.github.io/watch-token](https://vittominacori.github.io/watch-token/)
+
+### ETHBadge   
+``` 
+A simple DApp that allows you creating an Ethereum badge for your address to share or embed in your website.
+```   
+[vittominacori.github.io/ethereum-badge](https://vittominacori.github.io/ethereum-badge/)
 
 ### ERC-1363 Payable Token   
 ``` 
