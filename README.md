@@ -29,15 +29,6 @@ FriendsFingers helps startups and small businesses to start a trustworthy Crowds
 Furthermore, Shaka (HAK), an ERC20 Token issued by FriendsFingers, will give holders rights to be active part on platform key decisions like in a Decentralized Autonomous Organization (DAO).
 ``` 
 [www.friendsfingers.com](https://www.friendsfingers.com) 
-        
-### AidCoin   
-<b>CTO, Blockchain Developer</b>    
-`may 2017 - present`   
-```
-AidCoin is the token for charitable giving, built on Ethereum Blockchain and powered by CharityStars, a company that already raised 12M$ for 500 non-profit organisations collaborating with celebrities such as Cristiano Ronaldo, Metallica and Novak Djokovic. 
-The aim of the project is to bring blockchain's adoption and transparency into the non-profit sector.
-```
-[www.aidcoin.co](https://www.aidcoin.co)  
 
 ### CharityStars   
 <b>CTO, Web Developer</b>   
@@ -54,7 +45,24 @@ CharityStars is a groundbreaking fundraising platform for nonprofit organization
 Pane&Design is a tech company based in Italy. 
 Pane&Design helps startups and companies building successful experiences. Headquarters are in Catania and Milan.
 ```   
-[www.paneedesign.com](https://www.paneedesign.com)  
+[ped.company](https://ped.company)  
+
+### BC1  
+<b>Blockchain Developer</b>  
+`nov 2017 - present`  
+```
+BC1 was one of the first companies on the market to offer consultancy services and technical support to players wishing to enter the Blockchain sector, specifically the ICO world.
+```   
+[bc1.tech](https://bc1.tech)  
+
+### AidCoin   
+<b>CTO, Blockchain Developer</b>    
+`may 2017 - mar 2019`   
+```
+AidCoin is the token for charitable giving, built on Ethereum Blockchain and powered by CharityStars, a company that already raised 12M$ for 500 non-profit organisations collaborating with celebrities such as Cristiano Ronaldo, Metallica and Novak Djokovic. 
+The aim of the project is to bring blockchain's adoption and transparency into the non-profit sector.
+```
+[www.aidcoin.co](https://www.aidcoin.co)  
 
 ### PMF Research    
 <b>Software Engineer, Full Stack Developer</b>    
@@ -92,6 +100,29 @@ HT Apps is a web oriented software house which, over the years, has been able to
 
 ## Projects
 
+### WallOfChain   
+`BC1`   
+``` 
+WallOfChain is a collectible token on Ethereum Blockchain. Become a part of the Blockchain hall of fame. 
+Collect a star and let it shine. It will hang on our wall luminescent, bright and strong – there is your name on it. 
+When an user acquire a star, it is uniquely owned by the purchaser.
+```   
+[www.wallofchain.com](https://wallofchain.com)
+
+### Skillchain   
+`BC1`   
+``` 
+All the skills, academic qualifications, CVs, finally certified and guaranteed thanks to the Blockchain and the SkillChain platform that will allow people and companies to get in touch.
+```   
+[www.skillchain.io](https://www.skillchain.io)
+
+### FidelityHouse   
+`BC1`   
+``` 
+The possibility to secure - through a neat, swift blockchain procedure - the originality and paternity of online contents, establishing a direct link from author to publisher with the help of the FiH token.
+```   
+[www.fidelityhouse.io](https://www.fidelityhouse.io)
+
 ### Nextwin    
 `Pane&Design`   
 ``` 
@@ -106,15 +137,6 @@ Salty is the App that helps you find the professional best suited for the job pe
 Your simple, unique Job advisor.
 ```   
 [www.saltyapp.com](https://www.saltyapp.com)
-
-### WallOfChain   
-`Pane&Design`   
-``` 
-WallOfChain is a collectible token on Ethereum Blockchain. Become a part of the Blockchain hall of fame. 
-Collect a star and let it shine. It will hang on our wall luminescent, bright and strong – there is your name on it. 
-When an user acquire a star, it is uniquely owned by the purchaser.
-```   
-[www.wallofchain.com](https://wallofchain.com)
 
 ### Indoor Location   
 `VITECO e-Learning Solutions`   
