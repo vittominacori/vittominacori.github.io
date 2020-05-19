@@ -1,6 +1,8 @@
 ---
 permalink: about
 meta: 
+    - property: og:url
+      content: https://vittominacori.github.io/about/
     - property: og:title
       content: Vittorio Minacori | Web and Blockchain Developer
     - property: og:description

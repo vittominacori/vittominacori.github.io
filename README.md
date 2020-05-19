@@ -7,6 +7,8 @@ actionText: Discover More
 actionLink: /about/
 navbar: false
 meta: 
+    - property: og:url
+      content: https://vittominacori.github.io/
     - property: og:title
       content: Vittorio Minacori | Web and Blockchain Developer
     - property: og:description
