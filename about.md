@@ -1,5 +1,14 @@
 ---
 permalink: about
+meta: 
+    - property: og:title
+      content: Vittorio Minacori | Web and Blockchain Developer
+    - property: og:description
+      content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
+    - property: twitter:title
+      content: Vittorio Minacori | Web and Blockchain Developer
+    - property: twitter:description
+      content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
 ---
 
 <h1>Vittorio Minacori</h1>
