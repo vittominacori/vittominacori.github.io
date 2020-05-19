@@ -17,7 +17,6 @@ module.exports = {
     }]
   ],
   themeConfig: {
-    navbar: false,
     sidebar: 'auto',
     smoothScroll: true
   }

@@ -5,6 +5,7 @@ heroText: Vittorio Minacori
 tagline: Web and Blockchain Developer
 actionText: Discover More
 actionLink: /about/
+navbar: false
 ---
 
 <p class="social">

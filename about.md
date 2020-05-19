@@ -1,9 +1,8 @@
 ---
 permalink: about
-title: Vittorio Minacori | Web and Blockchain Developer
 ---
 
-# Vittorio Minacori
+<h1>Vittorio Minacori</h1>
 
 <b>Web and Blockchain Developer</b>
 
