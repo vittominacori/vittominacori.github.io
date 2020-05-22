@@ -8,7 +8,6 @@ module.exports = {
     ['meta', {property: 'twitter:image', content: 'https://vittominacori.github.io/assets/images/vittominacori.jpg'}],
     ['link', {rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.3.1/css/all.css'}],
     ['meta', {name: 'google-site-verification', content: 'Q3pMcwECEGhU_s_cyixqPpPcA8hyrJKEu-vIDEfLAOY'}],
-    ['script', { 'data-ad-client': 'ca-pub-8932195652957723', async: '', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js' }],
   ],
   plugins: [
     ['@vuepress/google-analytics', {
