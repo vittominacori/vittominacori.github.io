@@ -15,6 +15,23 @@ module.exports = {
     }]
   ],
   themeConfig: {
+    nav: [
+      { text: 'Home', link: '/' },
+      {
+        text: 'Details',
+        items: [
+          { text: 'About', link: '/about/#about' },
+          { text: 'Experience', link: '/about/#experience' },
+          { text: 'Projects', link: '/about/#projects' },
+          { text: 'Open Source', link: '/about/#open-source' },
+          { text: 'Education', link: '/about/#education' },
+          { text: 'Research', link: '/about/#research' },
+          { text: 'Skills', link: '/about/#skills' },
+          { text: 'Interests', link: '/about/#interests' },
+          { text: 'Contacts', link: '/about/#contacts' },
+        ],
+      },
+    ],
     sidebar: 'auto',
     smoothScroll: true
   }

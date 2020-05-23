@@ -13,6 +13,8 @@ meta:
       content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
 ---
 
+<img :src="$withBase('/assets/images/vittominacori-sq.jpg')" width="260" alt="vittominacori">
+
 <h1>Vittorio Minacori</h1>
 
 <b>Web and Blockchain Developer</b>
