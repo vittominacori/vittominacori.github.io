@@ -290,11 +290,12 @@ I worked on the design and implementation of a semantic courseware application f
 * PHP, Node.js
 * Blockchain, Ethereum, Smart Contracts, DApps
 * OpenZeppelin, Solidity, Web3.js, Truffle, MetaMask
-* JavaScript, Vue.js, AngularJS, Polymer, jQuery
+* JavaScript, Vue.js, jQuery
 * Socket.io, WebRTC
 * Semantic Web and Ontology Engineering
 * JSON-LD, RDFs and Microdata
 * Social and 3rd-party APIs
+* DevOps
 * Amazon Web Services
 * Apache, nginx
 * Git
