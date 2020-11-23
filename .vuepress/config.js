@@ -10,7 +10,7 @@ module.exports = {
     ['meta', {name: 'google-site-verification', content: 'Q3pMcwECEGhU_s_cyixqPpPcA8hyrJKEu-vIDEfLAOY'}],
     ['script',
       {
-        src: 'https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?forceLang=en&theme=momh&always=1&noGeoIp=1&scrolling=1&hideDetailsBtn=1&showPolicyLink=1&privacyPage=%2Fprivacy%2F',  // eslint-disable-line max-len
+        src: 'https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?forceLang=en&theme=momh&thirdparty=1&always=1&noGeoIp=1&scrolling=1&hideDetailsBtn=1',  // eslint-disable-line max-len
         async: true,
       },
     ],
