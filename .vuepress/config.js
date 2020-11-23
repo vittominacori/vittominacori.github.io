@@ -11,6 +11,7 @@ module.exports = {
     ['script',
       {
         src: 'https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?forceLang=en&theme=momh&always=1&noGeoIp=1&scrolling=1&hideDetailsBtn=1&showPolicyLink=1&privacyPage=%2Fprivacy%2F',  // eslint-disable-line max-len
+        async: true,
       },
     ],
   ],
