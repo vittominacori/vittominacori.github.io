@@ -6,8 +6,13 @@ module.exports = {
     ['meta', {property: 'og:image', content: 'https://vittominacori.github.io/assets/images/vittominacori.jpg'}],
     ['meta', {property: 'twitter:card', content: 'summary_large_image'}],
     ['meta', {property: 'twitter:image', content: 'https://vittominacori.github.io/assets/images/vittominacori.jpg'}],
-    ['link', {rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.3.1/css/all.css'}],
     ['meta', {name: 'google-site-verification', content: 'Q3pMcwECEGhU_s_cyixqPpPcA8hyrJKEu-vIDEfLAOY'}],
+    ['script',
+      {
+        src: 'https://kit.fontawesome.com/8991cca26e.js',
+        crossorigin: 'anonymous',
+      }
+    ],
     ['script',
       {
         src: 'https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?forceLang=en&theme=momh&thirdparty=1&always=1&noGeoIp=1&scrolling=1&hideDetailsBtn=1',  // eslint-disable-line max-len
