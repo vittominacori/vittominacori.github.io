@@ -24,7 +24,10 @@ module.exports = {
   plugins: [
     ['@vuepress/google-analytics', {
       ga: 'UA-115756440-2'
-    }]
+    }],
+    ['vuepress-plugin-facebook-pixel', {
+      pixelId: '373489733749849'
+    }],
   ],
   themeConfig: {
     nav: [
