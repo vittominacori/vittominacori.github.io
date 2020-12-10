@@ -76,12 +76,18 @@ Users can find further detailed information about such purposes of processing an
 ### Detailed information on the processing of Personal Data
 Personal Data is collected for the following purposes and using the following services:
 
-* Google Analytics (Google Inc.)
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
+* Google Analytics
+Google Analytics is a web analysis service provided by Google LLC or by Google Ireland Limited, depending on the location this Application is accessed from, (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
 Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 Personal Data collected: Cookies and Usage Data.
 
-Place of processing: US – [Privacy Policy](https://policies.google.com/privacy?hl=en)
+Place of processing: United States or Ireland – [Privacy Policy](https://policies.google.com/privacy?hl=en)
+
+* Facebook Ads conversion tracking (Facebook pixel)
+Facebook Ads conversion tracking (Facebook pixel) is an analytics service provided by Facebook, Inc. or by Facebook Ireland Ltd, depending on the location this Application is accessed from, that connects data from the Facebook advertising network with actions performed on this Application. The Facebook pixel tracks conversions that can be attributed to ads on Facebook, Instagram and Audience Network.
+Personal Data collected: Cookies and Usage Data.
+
+Place of processing: United States or Ireland – [Privacy Policy](https://www.facebook.com/about/privacy/)
 
 ### The rights of Users
 Users may exercise certain rights regarding their Data processed by the Owner.
