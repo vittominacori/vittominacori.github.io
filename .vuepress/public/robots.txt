@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow:
 
-Sitemap: https://vittominacori.github.io/sitemap
+Sitemap: https://vittominacori.github.io/sitemap.xml
