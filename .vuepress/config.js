@@ -8,6 +8,7 @@ module.exports = {
     ['meta', {property: 'twitter:card', content: 'summary_large_image'}],
     ['meta', {property: 'twitter:image', content: 'https://vittominacori.github.io/assets/images/vittominacori.jpg'}],
     ['meta', {name: 'google-site-verification', content: 'Q3pMcwECEGhU_s_cyixqPpPcA8hyrJKEu-vIDEfLAOY'}],
+    ['meta', {name: 'msvalidate.01', content: '2222C2A799471867FB1E317854E92631'}],
     ['script',
       {
         src: 'https://kit.fontawesome.com/8991cca26e.js',
