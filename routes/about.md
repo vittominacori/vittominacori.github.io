@@ -207,6 +207,13 @@ Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable
 ```   
 [vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/)
 
+### BEP20 Token Generator   
+``` 
+Create a BEP20 Token in less than a minute. 
+Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token for FREE.
+```   
+[vittominacori.github.io/bep20-generator](https://vittominacori.github.io/bep20-generator/)
+
 ### CryptoGift   
 ``` 
 CryptoGift is an ERC721 NFT Token and Marketplace to buy and give away an Ethereum based Collectible Gift. 
