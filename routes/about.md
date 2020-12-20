@@ -296,7 +296,8 @@ I worked on the design and implementation of a semantic courseware application f
 * SQL and NoSQL Databases
 * PHP, Node.js
 * Blockchain, Ethereum, Smart Contracts, DApps
-* OpenZeppelin, Solidity, Web3.js, Truffle, MetaMask
+* OpenZeppelin, Solidity, Web3.js, Truffle, Hardhat, MetaMask
+* ERC20, ERC721, ERC1363, BEP20
 * JavaScript, Vue.js, jQuery
 * Socket.io, WebRTC
 * Semantic Web and Ontology Engineering
