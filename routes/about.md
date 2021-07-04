@@ -115,6 +115,20 @@ HT Apps is a web oriented software house which, over the years, has been able to
 
 ## Projects
 
+### ERC20 Token Generator
+``` 
+Create an ERC20 Token in less than a minute. 
+Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token for FREE.
+```   
+[vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/)
+
+### BEP20 Token Generator
+``` 
+Create a BEP20 Token in less than a minute. 
+Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token for FREE.
+```   
+[vittominacori.github.io/bep20-generator](https://vittominacori.github.io/bep20-generator/)
+
 ### WallOfChain   
 `BC1`   
 ``` 
@@ -199,20 +213,6 @@ The methodology developed within the project are implemented in some schools and
 ```
 
 ## Open Source
-
-### ERC20 Token Generator   
-``` 
-Create an ERC20 Token in less than a minute. 
-Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token for FREE.
-```   
-[vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/)
-
-### BEP20 Token Generator   
-``` 
-Create a BEP20 Token in less than a minute. 
-Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token for FREE.
-```   
-[vittominacori.github.io/bep20-generator](https://vittominacori.github.io/bep20-generator/)
 
 ### CryptoGift   
 ``` 
