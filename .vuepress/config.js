@@ -1,3 +1,5 @@
+const vars = require('./.env.json');
+
 module.exports = {
   title: 'Vittorio Minacori | Web and Blockchain Developer',
   description: "I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation. I live in Catania and I'm maniacally passionate about web applications, blockchain technologies and development tools.",
@@ -25,10 +27,10 @@ module.exports = {
   ],
   plugins: [
     ['@vuepress/google-analytics', {
-      ga: 'UA-115756440-2'
+      ga: vars.gaId
     }],
     ['vuepress-plugin-facebook-pixel', {
-      pixelId: '373489733749849'
+      pixelId: vars.fbPixelId
     }],
   ],
   themeConfig: {
