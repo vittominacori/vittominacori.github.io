@@ -118,16 +118,23 @@ HT Apps is a web oriented software house which, over the years, has been able to
 ### ERC20 Token Generator
 ``` 
 Create an ERC20 Token in less than a minute. 
-Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token on the Ethereum Blockchain.
+Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token on Ethereum Network.
 ```   
 [vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/)
 
 ### BEP20 Token Generator
 ``` 
 Create a BEP20 Token in less than a minute. 
-Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token on the Binance Smart Chain.
+Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token on Binance Smart Chain.
 ```   
 [vittominacori.github.io/bep20-generator](https://vittominacori.github.io/bep20-generator/)
+
+### Polygon Token Generator
+``` 
+Create a Polygon ERC20 Token in less than a minute. 
+Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable, Payable ERC20 Token on Polygon Network.
+```   
+[vittominacori.github.io/polygon-generator](https://vittominacori.github.io/polygon-generator/)
 
 ### WallOfChain   
 `BC1`   
@@ -295,7 +302,8 @@ I worked on the design and implementation of a semantic courseware application f
 * RESTful Web Services and APIs
 * SQL and NoSQL Databases
 * PHP, Node.js
-* Blockchain, Ethereum, Smart Contracts, DApps
+* Blockchain, Smart Contracts, DApps
+* Ethereum, Binance Smart Chain, Polygon
 * OpenZeppelin, Solidity, Web3.js, Truffle, Hardhat, MetaMask
 * ERC20, ERC721, ERC1363, BEP20
 * JavaScript, Vue.js, jQuery
