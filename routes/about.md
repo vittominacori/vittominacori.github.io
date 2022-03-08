@@ -35,6 +35,15 @@ I live in Catania and I'm maniacally passionate about web applications, blockcha
 I was involved as technical expert in several EU, national and regional research projects.   
 Now, I'm working to build the next generation web apps supporting startups and amazing projects.
 
+
+### NONCEPT
+<b>CEO and Founder</b>  
+`feb 2022 - present`
+```
+At NONCEPT we build blockchain based applications and smart contracts supporting people decentralize their imagination.
+``` 
+[noncept.com](https://noncept.com)
+
 ### FriendsFingers  
 <b>Founder, Blockchain Developer</b>  
 `jan 2018 - present`  
@@ -47,7 +56,7 @@ Furthermore, Shaka (HAK), an ERC20 Token issued by FriendsFingers, will give hol
 
 ### CharityStars   
 <b>CTO, Web Developer</b>   
-`apr 2014 - present`   
+`apr 2014 - feb 2022`   
 ```
 CharityStars is a groundbreaking fundraising platform for nonprofit organizations that offers one destination for all - Auctions, Buy Now, Sweepstakes and Event/Gala Technology.
 ```     
@@ -55,7 +64,7 @@ CharityStars is a groundbreaking fundraising platform for nonprofit organization
 
 ### PED  
 <b>Senior Web Developer</b>  
-`apr 2014 - present`  
+`apr 2014 - feb 2022`  
 ```
 PED is a tech company based in Italy. 
 PED helps startups and companies building successful experiences. Headquarters are in Catania and Milan.
@@ -64,7 +73,7 @@ PED helps startups and companies building successful experiences. Headquarters a
 
 ### BC1  
 <b>Blockchain Developer</b>  
-`nov 2017 - present`  
+`nov 2017 - feb 2022`  
 ```
 BC1 was one of the first companies on the market to offer consultancy services and technical support to players wishing to enter the Blockchain sector, specifically the ICO world.
 ```   
@@ -300,17 +309,17 @@ I worked on the design and implementation of a semantic courseware application f
 
 * Web Applications and Integrated Systems
 * RESTful Web Services and APIs
-* SQL and NoSQL Databases
-* PHP, Node.js
-* Blockchain, Smart Contracts, DApps
+* Blockchain, Smart Contracts, DApps, NFT
 * Ethereum, Binance Smart Chain, Polygon
 * OpenZeppelin, Solidity, Web3.js, Truffle, Hardhat, MetaMask
 * ERC20, ERC721, ERC1363, BEP20
+* SQL and NoSQL Databases
+* PHP, Node.js
 * JavaScript, Vue.js, jQuery
 * Socket.io, WebRTC
 * Semantic Web and Ontology Engineering
 * JSON-LD, RDFs and Microdata
-* Social and 3rd-party APIs
+* Social, Payment and 3rd-party APIs
 * DevOps
 * Amazon Web Services
 * Apache, nginx
