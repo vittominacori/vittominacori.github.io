@@ -40,7 +40,7 @@ Now, I'm working to build the next generation web apps supporting startups and a
 <b>CEO and Founder</b>  
 `feb 2022 - present`
 ```
-At NONCEPT we build blockchain based applications and smart contracts supporting people decentralize their imagination.
+At NONCEPT, we build Blockchain based applications and Smart Contracts, supporting amazing projects to access the Decentralized Web.
 ``` 
 [noncept.com](https://noncept.com)
 
@@ -310,7 +310,7 @@ I worked on the design and implementation of a semantic courseware application f
 * Web Applications and Integrated Systems
 * RESTful Web Services and APIs
 * Blockchain, Smart Contracts, DApps, NFT
-* Ethereum, Binance Smart Chain, Polygon
+* Ethereum, Binance Smart Chain, Polygon Network
 * OpenZeppelin, Solidity, Web3.js, Truffle, Hardhat, MetaMask
 * ERC20, ERC721, ERC1363, BEP20
 * SQL and NoSQL Databases
