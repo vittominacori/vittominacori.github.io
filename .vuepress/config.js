@@ -26,7 +26,7 @@ module.exports = {
     ],
   ],
   plugins: [
-    ['@vuepress/google-analytics', {
+    ['google-gtag', {
       ga: vars.gaId
     }],
     ['vuepress-plugin-facebook-pixel', {
