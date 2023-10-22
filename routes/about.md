@@ -81,7 +81,7 @@ CharityStars is marketplace where celebrities and brands can donate experiences 
 
 ```
 PED is a tech company that helps startups and companies build successful experiences. 
-PED develops with the latest technologies and build the products of the future with both consulting service and project-based development.
+PED develops using the latest technologies and build the products of the future with both consulting service and project-based development.
 ```
 [ped.company](https://ped.company)
 
@@ -98,7 +98,7 @@ BC1 was one of the first companies on the market to offer consultancy services a
 
 ### AidCoin
 
-**CTO, Blockchain Developer**
+**Chief Technology Officer, Blockchain Architect**
 
 `may 2017 - mar 2019`
 
@@ -259,7 +259,7 @@ Fe:male was run by a consortium of organizations across five European countries 
 `VITECO e-Learning Solutions`
 
 ```
-Y2W provides a tailored support programme to enable NEETs (Not being in Employment, Education or Training) to gain valuable soft skills and competencies to aid job-seeking employability.
+Y2W provides a tailored support program to enable NEETs (Not being in Employment, Education or Training) to gain valuable soft skills and competencies to aid job-seeking employability.
 ```
 
 ### Smiley
@@ -296,7 +296,7 @@ Make your Gift unique on the Blockchain!
 ### WatchToken
 
 ```
-A simple DApp that allows suggesting and adding a Token to users of compatible wallets like MetaMask.
+A simple DApp that allows suggesting and adding ERC20 tokens to compatible wallets like MetaMask, using EIP-747.
 ```
 [vittominacori.github.io/watch-token](https://vittominacori.github.io/watch-token/)
 
