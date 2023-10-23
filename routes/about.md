@@ -94,7 +94,6 @@ PED develops using the latest technologies and build the products of the future 
 ```
 BC1 was one of the first companies on the market to offer consultancy services and technical support to players wishing to enter the Blockchain sector, specifically the ICO world.
 ```
-[bc1.tech](https://bc1.tech)
 
 ### AidCoin
 
@@ -106,7 +105,6 @@ BC1 was one of the first companies on the market to offer consultancy services a
 AidCoin is the token for charitable giving, built on Ethereum Blockchain. 
 The aim of the project is to bring blockchain's adoption and transparency into the non-profit sector.
 ```
-[www.aidcoin.co](https://www.aidcoin.co)
 
 ### JO Group
 
@@ -176,7 +174,6 @@ WallOfChain is a collectible token on Ethereum Blockchain. Become a part of the 
 Collect a star and let it shine. It will hang on our wall luminescent, bright and strong – there is your name on it. 
 When an user acquire a star, it is uniquely owned by the purchaser.
 ```
-[www.wallofchain.com](https://wallofchain.com)
 
 ### Skillchain
 
@@ -185,7 +182,6 @@ When an user acquire a star, it is uniquely owned by the purchaser.
 ```
 All the skills, academic qualifications, CVs, finally certified and guaranteed thanks to the Blockchain and the SkillChain platform that will allow people and companies to get in touch.
 ```
-[www.skillchain.io](https://www.skillchain.io)
 
 ### FidelityHouse
 
@@ -194,7 +190,6 @@ All the skills, academic qualifications, CVs, finally certified and guaranteed t
 ```
 The possibility to secure - through a neat, swift blockchain procedure - the originality and paternity of online contents, establishing a direct link from author to publisher with the help of the FiH token.
 ```
-[www.fidelityhouse.io](https://www.fidelityhouse.io)
 
 ### Nextwin
 
@@ -203,7 +198,6 @@ The possibility to secure - through a neat, swift blockchain procedure - the ori
 ```
 The first social betting network. Connect with other tipsters and get to the next level of betting.
 ```
-[www.nextwin.com](https://www.nextwin.com)
 
 ### Salty
 
@@ -212,7 +206,6 @@ The first social betting network. Connect with other tipsters and get to the nex
 ```
 Salty is the App that helps you find the professional best suited for the job performance you need. Your simple, unique Job advisor.
 ```
-[www.saltyapp.com](https://www.saltyapp.com)
 
 ### Indoor Location
 
