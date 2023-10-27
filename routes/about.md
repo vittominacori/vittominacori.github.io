@@ -269,9 +269,9 @@ The methodology developed within the project are implemented in some schools and
 ### ERC-1363 Payable Token
 
 ```
-ERC-1363 is an extension interface for ERC-20 tokens that supports executing code on a recipient contract after transfers, or code on a spender contract after approvals, in a single transaction.
-ERC-1363 tokens can be used for specific utilities in all cases that require a callback to be executed after a transfer or an approval received. 
-ERC-1363 is also useful for avoiding token loss or token locking in contracts by verifying the recipient contract's ability to handle tokens.
+ERC1363 is an extension interface for ERC20 tokens that supports executing code on a recipient contract after transfers, or code on a spender contract after approvals, in a single transaction.
+ERC1363 tokens can be used for specific utilities in all cases that require a callback to be executed after a transfer or an approval received. 
+ERC1363 is also useful for avoiding token loss or token locking in contracts by verifying the recipient contract's ability to handle tokens.
 ```
 [eips.ethereum.org/EIPS/eip-1363](https://eips.ethereum.org/EIPS/eip-1363)  
 [erc1363.org](https://erc1363.org/)  
@@ -303,7 +303,7 @@ A simple DApp that allows you creating an Ethereum badge for your address to sha
 ### ETH Token Recover
 
 ```
-TokenRecover allows the contract owner to recover any ERC20 token sent into the contract for error.
+TokenRecover allows to recover any ERC20 or NFT (ERC721) token sent into the contract and send them to a receiver.
 ```
 [vittominacori.github.io/eth-token-recover](https://vittominacori.github.io/eth-token-recover/)
 
