@@ -310,7 +310,7 @@ TokenRecover allows to recover any ERC20 or NFT (ERC721) token sent into the con
 ### Solidity Linked List
 
 ```
-An utility library for using sorted linked list data structures in your Solidity project.
+An utility library for working with sorted linked list data structures in your Solidity project.
 ```
 [vittominacori.github.io/solidity-linked-list](https://vittominacori.github.io/solidity-linked-list/)
 
