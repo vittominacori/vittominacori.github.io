@@ -4,13 +4,15 @@ meta:
     - property: og:url
       content: https://vittominacori.github.io/about/
     - property: og:title
+      name: title
       content: Vittorio Minacori | Web and Blockchain Developer
-    - property: og:description
-      content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
     - property: twitter:title
       content: Vittorio Minacori | Web and Blockchain Developer
+    - name: description
+      property: og:description
+      content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation. I'm building next-generation Web Apps and Smart Contracts.
     - property: twitter:description
-      content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation.
+      content: I'm a Software Engineer continually seeking and testing new tools and opportunities for innovation. I'm building next-generation Web Apps and Smart Contracts.
 ---
 
 <img :src="$withBase('/assets/images/vittominacori-sq.jpg')" width="260" alt="vittominacori">
