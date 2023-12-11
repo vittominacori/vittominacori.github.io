@@ -16,9 +16,9 @@ meta:
       content: Vittorio Minacori | Web and Blockchain Developer
     - name: description
       property: og:description
-      content: I'm building next-generation Web Apps and Smart Contracts supporting developers, companies, and projects worldwide, in accessing the fast-growing Blockchain ecosystem and the Decentralized Web.
+      content: I'm building next-generation Web Apps and Smart Contracts supporting developers, companies, and projects worldwide, in accessing the Blockchain ecosystem and the Decentralized Web.
     - property: twitter:description
-      content: I'm building next-generation Web Apps and Smart Contracts supporting developers, companies, and projects worldwide, in accessing the fast-growing Blockchain ecosystem and the Decentralized Web.
+      content: I'm building next-generation Web Apps and Smart Contracts supporting developers, companies, and projects worldwide, in accessing the Blockchain ecosystem and the Decentralized Web.
 ---
 
 <p class="social">
