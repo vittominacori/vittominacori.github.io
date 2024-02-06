@@ -1,47 +1,49 @@
 ---
 permalink: terms
 title: Terms and Conditions
-description:  Terms and Conditions for vittominacori.github.io
+description: Terms and Conditions for vittominacori.github.io
 navbar: false
 sidebar: false
-meta: 
-    - name: robots
-      content: noindex, nofollow
+meta:
+  - name: robots
+    content: noindex, nofollow
 ---
 
 ## Terms and Conditions
 
 ### Data Controller and Owner
+
 https://vittominacori.github.io
 
 Owner contact email: info@vmlab.it
 
 ### General
+
 By accessing and using this website (our or this “Website”), you agree to the following terms of use as they may be modified, changed, supplemented or updated from time to time (collectively, these “terms”), as well as all applicable laws and regulations. Please read the following terms and conditions carefully. If you do not agree to all of these terms, please do not use this Website or any information, links or content contained on this Website. Your access to and use of this Website constitutes your acceptance of and agreement to abide by each of the terms set forth below including our [Privacy Policy](/privacy) which is hereby incorporated in these terms by reference. If you are using our Website on behalf of your organization, that organization accepts these terms.
 
 These terms may be modified, changed, supplemented or updated by Website (“we”, “us” or “our”) in its sole discretion at any time without advance notice. We suggest that you visit this page regularly to keep up to date with any changes. Your continued use of this Website will confirm your acceptance of these terms as modified, changed, supplemented or updated by us. If you do not agree to such revised terms you must stop using this Website and any information, links or content contained on this Website.
 
-
 ### Use of Website
+
 The purpose of our Website is to provide you with some general information about the software being developed. You must not breach any of the following terms or our Acceptable Use Policy set out below.
 
-
 ### Open Source Software
+
 We will make (but are not obligated to make) the source code for the software we develop available for download as open source software. You agree to be bound by, and comply with, any license agreement that applies to this open source software. You will not indicate that you are associated with us in connection with your use, modifications or distributions of this open source software.
 
 When we host any software and enable you to access and use such software through our websites including this Website, then these terms will apply to such access and use, as well as any license agreements that we may enter into with you.
 
-
 ### Third Party Content
+
 We may display third-party content, advertisements, links, promotions, logos and other materials on our Website (collectively, the “Third-Party Content”) for your convenience only. We do not approve of, control, endorse or sponsor any third parties or Third-Party Content, and we make no representations or warranties of any kind regarding such Third-Party Content, including, without limitation, the accuracy, validity, legality, copyright compliance, or decency of such content. Your use of or interactions with any Third-Party Content, and any third party that provides Third-Party Content, are solely between you and such third parties and we are not responsible or liable in any manner for such use or interactions. We are not responsible for any of the content on third party sites linked to our Website nor can it be assumed that we have reviewed or approved of such sites or their content, nor do we warrant that the links to these sites work or are up to date.
 
-
 ### User Content
-If you post, upload, input, provide or submit your personal data to us, including without limitation, your name, email address, IP address, cryptocurrency address, text, code or other information and materials or sign up to our mailing list (collectively, your “User Content”), you must ensure that the User Content provided by you at that or at any other time is true, accurate, up to date and complete and that any User Content you post, upload, input, provide or submit to us or via our Website do not breach or infringe the intellectual property rights of any third party. We do not own, control or endorse any User Content that is transmitted, stored or processed via our Website or sent to us and we are not responsible or liable for any User Content. You are solely responsible and liable for all of your User Content and for your use of any interactive features, links or information or content on our Website, and you represent and warrant that 
 
-i) you own all intellectual property rights (or have obtained all necessary permissions) to provide your User Content and to grant the licenses in these terms; 
+If you post, upload, input, provide or submit your personal data to us, including without limitation, your name, email address, IP address, cryptocurrency address, text, code or other information and materials or sign up to our mailing list (collectively, your “User Content”), you must ensure that the User Content provided by you at that or at any other time is true, accurate, up to date and complete and that any User Content you post, upload, input, provide or submit to us or via our Website do not breach or infringe the intellectual property rights of any third party. We do not own, control or endorse any User Content that is transmitted, stored or processed via our Website or sent to us and we are not responsible or liable for any User Content. You are solely responsible and liable for all of your User Content and for your use of any interactive features, links or information or content on our Website, and you represent and warrant that
 
-ii) your User Content will not violate any agreements or confidentiality obligations; 
+i) you own all intellectual property rights (or have obtained all necessary permissions) to provide your User Content and to grant the licenses in these terms;
+
+ii) your User Content will not violate any agreements or confidentiality obligations;
 
 iii) your User Content will not violate, infringe or misappropriate any intellectual property right or other proprietary right, including the right of publicity or privacy, of any person or entity.
 
@@ -55,16 +57,16 @@ Although we have no obligation to screen, edit or monitor User Content, we reser
 
 Any User Content submitted by you on this Website may be accessed by us globally.
 
-
 ### Feedback
+
 If you decide to submit questions, comments, suggestions, ideas, original or creative materials or other information to us (collectively, “Feedback”), you do so on your own accord and not based on any request or solicitation from us. Feedback does not include User Content. We reserve the right to use Feedback for any purpose at no charge and without compensation to you. Do not send us Feedback if you expect to be paid or want to continue to own or claim rights to your Feedback. The purpose of these terms is to avoid potential misunderstandings or disputes if Website’ products, services, business ideas or business strategies might seem similar to ideas submitted to us as Feedback. If you decide to send us Feedback, you acknowledge and understand that the Website Parties make no assurances that your Feedback will be treated as confidential or proprietary.
 
-
 ### Aggregate Information
+
 We may gather information and statistics collectively about all visitors to this Website which may include the information supplied by you. This information helps us to design and arrange our Web pages in a user-friendly manner and to continually improve our Website to better meet the needs of our Website users. We may share this kind of aggregate data with selected third parties to assist with these purposes. Personal data is processed by us in accordance with our Privacy Policy.
 
-
 ### Intellectual Property
+
 Website and its licensors retain all right, title and interest in and to this Website and its products and services, including all copyrights, patents, trade secrets, trademarks, other intellectual property rights, trade names, logos, slogans, custom graphics, button icons, scripts, videos, text, images, software, code, files, content, information and other material available on our Website and nothing on this Website may be copied, imitated or used, in whole or in part, without our or the applicable licensor’s prior written permission. Website reserves all rights not expressly granted.
 
 Any unauthorised reproduction is prohibited.
@@ -75,8 +77,8 @@ You must not otherwise reproduce, adapt, store, transmit, distribute, print, dis
 
 If you seek to reproduce or otherwise use the content on this Website in any way it is your responsibility to obtain approval from us for such use. Nothing in these terms will be construed as conferring any right or license to any patent, trademark, copyright or other proprietary rights of Website or any third party, whether by estoppel, implication or otherwise.
 
-
 ### Acceptable Use Policy
+
 You must only use the content or services provided through this Website for their stated purpose. You must not use this Website to:
 
 a) publish, post, send, upload, submit, display or disseminate any information or material and/or otherwise make available or engage in any conduct that is unlawful, discriminatory, harassing, libellous, defamatory, abusive, threatening, harmful, offensive, obscene, tortious or otherwise objectionable;
@@ -115,26 +117,26 @@ q) use any part of this Website other than for its intended purpose; or
 
 r) use this Website to engage in or promote any activity that violates these terms.
 
-
 ### Indemnification
+
 To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless us and our respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (collectively, the “Website Parties”) from and against all claims, damages, liabilities, losses, costs and expenses (including attorneys’ fees) that arise from or relate to: (i) your access to or use of our Website, products or services; (ii) your User Content; (iii) any Feedback you provide; or (iv) your violation of these Terms.
 
 We reserve the right to exercise sole control over the defence, at your expense, of any claim subject to indemnification pursuant to these terms. This indemnity is in addition to, and not in lieu of, any other indemnities set forth in a written agreement between you and Website.
 
-
 ### Disclaimer
+
 THIS WEBSITE AND ALL INFORMATION, PRODUCTS AND SERVICES PROVIDED THROUGH THIS WEBSITE ARE PROVIDED “AS IS” AND ON AN “AS AVAILABLE” BASIS WITHOUT ANY REPRESENTATIONS, WARRANTIES, PROMISES OR GUARANTEES WHATSOEVER OF ANY KIND INCLUDING, WITHOUT LIMITATION, ANY REPRESENTATIONS, WARRANTIES, PROMISES OR GUARANTEES REGARDING THE ACCURACY, CURRENCY, COMPLETENESS, ADEQUACY, AVAILBILITY, SUITABLITY OR OPERATION OF THIS WEBSITE, ANY PRODUCTS OR SERVICES WE MAY PROVIDE THROUGH IT OR THE INFORMATION OR MATERIAL IT CONTAINS.
-EACH OF THE WEBSITE PARTIES DISCLAIM ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, WITH REGARD TO THE FOREGOING, INCLUDING, WITHOUT LIMITATION: 
+EACH OF THE WEBSITE PARTIES DISCLAIM ALL REPRESENTATIONS AND WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, WITH REGARD TO THE FOREGOING, INCLUDING, WITHOUT LIMITATION:
 
 A) ANY WARRANTY WITH RESPECT TO THE CONTENT, INFORMATION, DATA, SERVICES, AVAILABLITY, UNINTERRUPTED ACCESS, OR SERVICES OR PRODUCTS PROVIDED THROUGH OR IN CONNECTION WITH THIS WEBSITE;
 
-B) ANY WARRANTIES THAT THIS WEBSITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES, WORMS, TROJAN HORSES OR OTHER HARMFUL COMPONENTS; 
+B) ANY WARRANTIES THAT THIS WEBSITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES, WORMS, TROJAN HORSES OR OTHER HARMFUL COMPONENTS;
 
-C) ANY WARRANTIES THAT THIS WEBSITE, ITS CONTENT AND ANY SERVICES OR PRODUCTS PROVIDED THROUGH IT ARE ERROR-FREE OR THAT DEFECTS IN THIS WEBSITE, ITS CONTENT OR SUCH SERVICES OR PRODUCTS WILL BE CORRECTED; 
+C) ANY WARRANTIES THAT THIS WEBSITE, ITS CONTENT AND ANY SERVICES OR PRODUCTS PROVIDED THROUGH IT ARE ERROR-FREE OR THAT DEFECTS IN THIS WEBSITE, ITS CONTENT OR SUCH SERVICES OR PRODUCTS WILL BE CORRECTED;
 
-D) ANY WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE; 
+D) ANY WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE;
 
-E) ANY WARRANTIES THAT THIS WEBSITE WILL BE COMPATIBLE WITH YOUR COMPUTER OR OTHER ELECTRONIC EQUIPMENT; 
+E) ANY WARRANTIES THAT THIS WEBSITE WILL BE COMPATIBLE WITH YOUR COMPUTER OR OTHER ELECTRONIC EQUIPMENT;
 
 F) ANY WARRANTIES OF NON-INFRINGEMENT. THE MATERIALS AND RELATED GRAPHICS PUBLISHED ON THIS WEBSITE COULD INCLUDE TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION CONTAINED ON THIS WEBSITE. THE WEBSITE PARTIES MAY MAKE IMPROVEMENTS AND/OR CHANGES TO THE WEBSITE, ITS PRODUCTS, SERVICES AND/OR THE MATERIALS DESCRIBED ON THIS WEBSITE AT ANY TIME.
 
@@ -152,24 +154,24 @@ e) the performance of this Website and any fault, delays, interruptions or lack 
 
 f) any information or material on any website operated by a third party which may be accessed from this Website.
 
-IN NO EVENT WILL THE WEBSITE PARTIES BE RESPONSIBLE OR LIABLE FOR ANY CLAIMS, DAMAGES, LIABILITIES, LOSSES, COSTS OR EXPENSES OF ANY KIND, WHETHER DIRECT OR INDIRECT, CONSEQUENTIAL, COMPENSATORY, INCIDENTAL, ACTUAL, EXEMPLARY, PUNITIVE OR SPECIAL (INCLUDING DAMAGES FOR LOSS OF BUSINESS, REVENUES, PROFITS, DATA, USE, GOODWILL OR OTHER INTANGIBLE LOSSES) REGARDLESS OF WHETHER THE WEBSITE PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, LIABILITIES, LOSSES, COSTS OR EXPENSES, ARISING OUT OF OR IN CONNECTION WITH: 
+IN NO EVENT WILL THE WEBSITE PARTIES BE RESPONSIBLE OR LIABLE FOR ANY CLAIMS, DAMAGES, LIABILITIES, LOSSES, COSTS OR EXPENSES OF ANY KIND, WHETHER DIRECT OR INDIRECT, CONSEQUENTIAL, COMPENSATORY, INCIDENTAL, ACTUAL, EXEMPLARY, PUNITIVE OR SPECIAL (INCLUDING DAMAGES FOR LOSS OF BUSINESS, REVENUES, PROFITS, DATA, USE, GOODWILL OR OTHER INTANGIBLE LOSSES) REGARDLESS OF WHETHER THE WEBSITE PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, LIABILITIES, LOSSES, COSTS OR EXPENSES, ARISING OUT OF OR IN CONNECTION WITH:
 
-A) THE USE OR PERFORMANCE OF THIS WEBSITE; 
+A) THE USE OR PERFORMANCE OF THIS WEBSITE;
 
-B) ANY PROVISION OF OR FAILURE TO PROVIDE THIS WEBSITE OR ITS SERVICES (INCLUDING WITHOUT LIMITATION ANY LINKS ON OUR WEBSITE); 
+B) ANY PROVISION OF OR FAILURE TO PROVIDE THIS WEBSITE OR ITS SERVICES (INCLUDING WITHOUT LIMITATION ANY LINKS ON OUR WEBSITE);
 
-C) ANY INFORMATION AVAILABLE FROM THIS WEBSITE; 
+C) ANY INFORMATION AVAILABLE FROM THIS WEBSITE;
 
-D) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY; 
+D) ANY CONDUCT OR CONTENT OF ANY THIRD PARTY;
 
-E) UNAUTHORIZED ACCESS, USE OR ALTERATION OF THE TRANSMISSION OF DATA OR CONTENT TO OR FROM US; 
+E) UNAUTHORIZED ACCESS, USE OR ALTERATION OF THE TRANSMISSION OF DATA OR CONTENT TO OR FROM US;
 
-F) THE FAILURE TO RECEIVE IN ANY WAY THE TRANSMISSION OF ANY DATA, CONTENT, FUNDS OR PROPERTY FROM YOU. 
+F) THE FAILURE TO RECEIVE IN ANY WAY THE TRANSMISSION OF ANY DATA, CONTENT, FUNDS OR PROPERTY FROM YOU.
 
 IN NO CIRCUMSTANCES WILL THE AGGREGATE LIABILITY OF THE WEBSITE PARTIES ARISING UNDER THESE TERMS EXCEED $1.00 USD.
 
-
 ### Conclusion
+
 These terms control the relationship between us and you. They do not create any third-party beneficiary rights.
 
 If you do not comply with these terms, and we don’t take action right away, this doesn’t mean that we are giving up any rights that we may have (such as taking action in the future).

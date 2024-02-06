@@ -2,8 +2,10 @@
   "name": "vittominacori.github.io",
   "version": "1.0.0",
   "private": true,
-  "description": "@vittominacori's personal website",
+  "description": "Vittorio Minacori github page",
   "scripts": {
+    "lint": "prettier --check .",
+    "lint:fix": "prettier --write --list-different .",
     "dev": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress dev",
     "build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build",
     "deploy": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build && sh scripts/deploy.sh"
@@ -25,6 +27,7 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "prettier": "^3.2.5",
     "vuepress": "^1.9.10",
     "vuepress-plugin-facebook-pixel": "^1.0.0",
     "vuepress-plugin-google-gtag": "^1.0.1"
