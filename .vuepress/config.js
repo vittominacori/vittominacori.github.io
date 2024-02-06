@@ -45,6 +45,10 @@ module.exports = {
       },
     ],
   ],
+  markdown: {
+    anchor: { permalink: false, permalinkBefore: false },
+    externalLinks: { target: "_self" },
+  },
   plugins: [
     [
       "google-gtag",
