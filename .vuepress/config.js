@@ -34,13 +34,6 @@ module.exports = {
       },
     ],
     ["meta", { name: "msvalidate.01", content: vars.msSite }],
-    [
-      "script",
-      {
-        src: "https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?forceLang=en&theme=momh&thirdparty=1&always=1&noGeoIp=1&scrolling=1&hideDetailsBtn=1", // eslint-disable-line max-len
-        defer: true,
-      },
-    ],
   ],
   markdown: {
     anchor: { permalink: false, permalinkBefore: false },
@@ -48,15 +41,9 @@ module.exports = {
   },
   plugins: [
     [
-      "google-gtag",
+      "vuepress-plugin-gtag",
       {
-        ga: vars.gaId,
-      },
-    ],
-    [
-      "vuepress-plugin-facebook-pixel",
-      {
-        pixelId: vars.fbPixelId,
+        gtagId: vars.gaId,
       },
     ],
   ],
