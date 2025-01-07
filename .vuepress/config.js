@@ -34,6 +34,7 @@ module.exports = {
       },
     ],
     ["meta", { name: "msvalidate.01", content: vars.msSite }],
+    ["meta", { name: "ahrefs-site-verification", content: vars.ahref }],
   ],
   markdown: {
     anchor: { permalink: false, permalinkBefore: false },
