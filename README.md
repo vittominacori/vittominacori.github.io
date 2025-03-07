@@ -18,9 +18,7 @@ meta:
 
 > Software Engineer, Web3 & Blockchain Innovator.
 >
-> Author of ERC-1363.
->
-> Creator of ERC20 Token Generator.
+> Author of ERC-1363. Creator of ERC20 Token Generator.
 
 Building high-impact Blockchain tools, including Smart Contract infrastructures and DApps for DeFi, NFT platforms, and RWA tokenization. Successfully supported 50k+ companies and projects worldwide in deploying next-generation Web3 solutions, improving security, efficiency, and decentralization.
 
